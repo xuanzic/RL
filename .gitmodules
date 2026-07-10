@@ -13,3 +13,6 @@
 	url = https://github.com/NVIDIA-NeMo/Gym.git
 	branch = main
 	shallow = true
+[submodule "3rdparty/Megatron-Bridge-workspace/Megatron-Bridge"]
+	url = https://github.com/xuanzic/Megatron-Bridge.git
+	branch = xuanzic/glm51-nemorl
